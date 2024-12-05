@@ -2,6 +2,8 @@
 
 **travelExpenseTracker** is an Android app specifically designed for the **Queen's Student Cluster Competition Team** to efficiently track their travel expenses and incomes while participating in **SC24** ([sc24.supercomputing.org](https://sc24.supercomputing.org)) and **SC25**. The app allows users to log transactions and visualize financial data with charts. While the app provides a comprehensive list of recorded transactions, users must manually transfer these records into Excel spreadsheets to generate financial statements.
 
+## Purpose of building this app
+As the **Financial Lead** for the team, I wanted to create a tool that would simplify financial tracking for everyone involved.
 
 
 ## Features
