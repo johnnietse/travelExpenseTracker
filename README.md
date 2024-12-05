@@ -79,7 +79,7 @@ Feel free to contribute or suggest improvements by submitting an issue or pull r
 ---
 
 ## Screenshots of the app
-[Screenshot (1)](https://github.com/user-attachments/assets/dd403aed-4882-486d-8da2-f95cf32678c7)
+![Screenshot (1)](https://github.com/user-attachments/assets/dd403aed-4882-486d-8da2-f95cf32678c7)
 ![Screenshot (2)](https://github.com/user-attachments/assets/9c631cd4-e88f-4642-9e46-badc9a6784ac)
 ![Screenshot (3)](https://github.com/user-attachments/assets/c3523e9b-7c2d-46cc-ad70-9b845a5e351e)
 ![Screenshot (4)](https://github.com/user-attachments/assets/50af9ea4-3246-467a-83f1-abf8bae3710a)
