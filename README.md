@@ -1,6 +1,6 @@
 # travelExpenseTracker
 
-**travelExpenseTracker** is an Android app designed for competition team members to efficiently track their travel expenses and incomes. The app allows users to log transactions, visualize financial data with charts, and export records into Excel spreadsheets to create financial statements.
+**travelExpenseTracker** is an Android app designed for competition team members to efficiently track their travel expenses and incomes. The app allows users to log transactions, visualize financial data with charts. While the app provides a comprehensive list of recorded transactions, users must manually transfer these records into Excel spreadsheets to generate financial statements.
 
 ## Features
 
@@ -20,9 +20,9 @@
 
 - **Settings Page**: 
   - Change the app’s currency.
-
-- **Export to Excel**: 
-  - Export transaction records to Excel spreadsheets for reporting and analysis.
+ 
+- **Manual Export**: 
+  - Use the transaction list on the Home Screen to manually transfer records into Excel spreadsheets.
 
 ## App Screens and Functionalities
 
@@ -47,25 +47,22 @@
 ### Settings Page
 - Adjust app currency preferences.
 
-### Export Feature
-- Export financial data to an Excel spreadsheet for easy reporting.
-
 ## Tools and Technologies
 - **Programming Language**: Java/Kotlin
 - **IDE**: Android Studio
 - **Database**: SQLite
 - **Charting Library**: [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)
-- **Excel Export**: Apache POI or a similar library.
 
 ## How to Use
 1. Log in with your username and password.
 2. Record your income and expenses on the Home Screen.
 3. View insights and trends on the Statistics Page.
 4. Adjust app settings, including currency preferences, on the Settings Page.
-5. Export your data as an Excel spreadsheet for reporting.
+5. Manually transfer transaction records into an Excel spreadsheet.
 
 ## Future Enhancements
 - Multi-language support.
+- Direct Excel export functionality.
 - Cloud backup for data synchronization across devices.
 - Advanced filtering options and custom reporting formats.
 
