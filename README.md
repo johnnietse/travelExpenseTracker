@@ -1,6 +1,6 @@
 # travelExpenseTracker
 
-**travelExpenseTracker** is an Android app designed for competition team members to efficiently track their travel expenses and incomes. The app allows users to log transactions, visualize financial data with charts. While the app provides a comprehensive list of recorded transactions, users must manually transfer these records into Excel spreadsheets to generate financial statements.
+**travelExpenseTracker** is an Android app designed for competition team members (Queen's Student Cluster Competition Team) to efficiently track their travel expenses and incomes. The app allows users to log transactions and visualize financial data with charts. While the app provides a comprehensive list of recorded transactions, users must manually transfer these records into Excel spreadsheets to generate financial statements.
 
 ## Features
 
