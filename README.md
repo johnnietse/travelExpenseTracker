@@ -79,19 +79,19 @@ Feel free to contribute or suggest improvements by submitting an issue or pull r
 ---
 
 ## Screenshots of the app
-| Login or Register Page       | Login Screen      | Sign-up Screen      |
+| Login or Register Page       | Adding Income or Expense Page      | Home Page      |
 |----------------|----------------|----------------|
 ![Screenshot (1)](https://github.com/user-attachments/assets/dd403aed-4882-486d-8da2-f95cf32678c7) | ![Screenshot (2)](https://github.com/user-attachments/assets/9c631cd4-e88f-4642-9e46-badc9a6784ac) | ![Screenshot (3)](https://github.com/user-attachments/assets/c3523e9b-7c2d-46cc-ad70-9b845a5e351e)
 
-| Splash Screen       | Login Screen      | Sign-up Screen      |
+| Statistics Page Part 1       | Statistics Page Part 2      | Date Selection Calendar Page      |
 |----------------|----------------|----------------|
 ![Screenshot (4)](https://github.com/user-attachments/assets/50af9ea4-3246-467a-83f1-abf8bae3710a) | ![Screenshot (5)](https://github.com/user-attachments/assets/86e527b2-2483-48bd-8d8e-0a4df560bf5c) | ![Screenshot (6)](https://github.com/user-attachments/assets/36907229-52aa-4cf8-beb4-b1c7e6141bca)
 
-| Splash Screen       | Login Screen      | Sign-up Screen      |
+| Date Selection Page (through typing)       | Date Selection Page (through taping the date ranges on the calendar)     | Settings Page Part 1      |
 |----------------|----------------|----------------|
 ![Screenshot (7)](https://github.com/user-attachments/assets/ba4eb00d-6572-45a7-902a-5424fdafadad) | ![Screenshot (8)](https://github.com/user-attachments/assets/b976479a-e9a9-4563-a4a9-88ab59db5a68) | ![Screenshot (9)](https://github.com/user-attachments/assets/4619b53f-4f19-4035-ae1b-f11a5f126f88)
 
-| Splash Screen       | 
+| Settings Page Part 2| 
 |----------------|
 ![Screenshot (10)](https://github.com/user-attachments/assets/9b094578-ae66-4adf-8c47-700ea021198a)|
 
