@@ -80,7 +80,8 @@ Feel free to contribute or suggest improvements by submitting an issue or pull r
 ## 💬 Support
 
 For assistance with the Travel Expense Tracker:
-- **Bug Reports**: [Open a GitHub Issue](https://github.com/your-repo/issues)
+- **Bug Reports**: [Open an issue here](https://github.com/JohnnieTse/travelExpenseTracker/issues).  
+
 - **Questions**: Email [johnnietse994@gmail.com](mailto:johnnietse994@gmail.com)
 
 **When reporting issues, please include:**
