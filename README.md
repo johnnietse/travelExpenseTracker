@@ -77,6 +77,45 @@ Feel free to contribute or suggest improvements by submitting an issue or pull r
 
 
 ---
+## Support
+
+For assistance:
+- **Issues**: [GitHub Issues](https://github.com/your-repo/issues)
+- **Questions**: Email johnnietse994@gmail.com
+
+Please include:
+1. Android version
+2. Device model
+3. Steps to reproduce any issues
+
+## Contributing
+
+We welcome contributions! Please:
+1. Fork the repository
+2. Create a feature branch
+3. Submit a pull request
+
+## License
+
+Apache License 2.0
+
+Key permissions:
+- ✅ Commercial use
+- ✅ Modification
+- ✅ Distribution
+- ✅ Private use
+
+Limitations:
+- ❌ Liability
+- ❌ Warranty
+
+[Full License Text](LICENSE)
+
+## About the Developer
+
+Created by Johnnie Tse as Financial Lead for Queen's SCC Team to streamline competition expense tracking.
+
+---
 
 ## Screenshots of the app
 | Login or Register Page       | Adding Income or Expense Page      | Home Page | Statistics Page Part 1  |
