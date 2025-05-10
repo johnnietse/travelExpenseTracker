@@ -77,45 +77,41 @@ Feel free to contribute or suggest improvements by submitting an issue or pull r
 
 
 ---
-## Support
+## 💬 Support
 
-For assistance:
-- **Issues**: [GitHub Issues](https://github.com/your-repo/issues)
-- **Questions**: Email johnnietse994@gmail.com
+For assistance with the Travel Expense Tracker:
+- **Bug Reports**: [Open a GitHub Issue](https://github.com/your-repo/issues)
+- **Questions**: Email [johnnietse994@gmail.com](mailto:johnnietse994@gmail.com)
 
-Please include:
-1. Android version
-2. Device model
-3. Steps to reproduce any issues
+**When reporting issues, please include:**
+1. Android version (e.g., Android 13)
+2. Device model (e.g., Pixel 6)
+3. Exact steps to reproduce the issue
+4. Screenshots (if applicable)
 
-## Contributing
+## 🤝 Contributing
 
-We welcome contributions! Please:
-1. Fork the repository
-2. Create a feature branch
-3. Submit a pull request
+We welcome contributions from the community!  
+**How to help improve this project:**
 
-## License
+1. 🍴 **Fork** the repository
+2. 🌿 **Create a branch** for your feature (`git checkout -b feature/your-feature`)
+3. 💾 **Commit your changes** (`git commit -m 'Add amazing feature'`)
+4. 🚀 **Push to the branch** (`git push origin feature/your-feature`)
+5. 🔄 **Open a Pull Request**
 
-Apache License 2.0
+*Please ensure your code follows existing style patterns.*
 
-Key permissions:
-- ✅ Commercial use
-- ✅ Modification
-- ✅ Distribution
-- ✅ Private use
+## 📜 License 
 
-Limitations:
-- ❌ Liability
-- ❌ Warranty
-
+```plaintext
+MIT License
+Copyright (c) 2024 Johnnie Tse
+```
 [Full License Text](LICENSE)
 
-## About the Developer
-
-Created by Johnnie Tse as Financial Lead for Queen's SCC Team to streamline competition expense tracking.
-
 ---
+
 
 ## Screenshots of the app
 | Login or Register Page       | Adding Income or Expense Page      | Home Page | Statistics Page Part 1  |
