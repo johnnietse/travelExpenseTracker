@@ -132,4 +132,4 @@ Copyright (c) 2024 Johnnie Tse
 A short walkthrough of the application is available below.
 
 ▶️ Watch the full demo here:
-https://youtu.be/sdySfc3kSyk
+https://youtu.be/PVzWPJR_Ux4
